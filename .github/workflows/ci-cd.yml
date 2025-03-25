@@ -14,10 +14,10 @@ jobs:
       - name: 📥 Checkout del repositorio
         uses: actions/checkout@v4
 
-      - name: 🔧 Configurar .NET 8
+      - name: 🔧 Configurar .NET 9
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0'
+          dotnet-version: '9.0'
 
       - name: 📦 Restaurar dependencias
         run: dotnet restore eShopOnWeb/eShopOnWeb.sln
