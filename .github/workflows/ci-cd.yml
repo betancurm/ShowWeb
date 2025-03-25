@@ -20,16 +20,16 @@ jobs:
           dotnet-version: '8.0'
 
       - name: 📦 Restaurar dependencias
-        run: dotnet restore eShopOnWeb.sln
+        run: dotnet restore ShopWeb/eShopOnWeb/eShopOnWeb.sln
 
       - name: 🛠️ Compilar solución
-        run: dotnet build eShopOnWeb.sln --configuration Release --no-restore
+        run: dotnet build ShopWeb/eShopOnWeb/eShopOnWeb.sln --configuration Release --no-restore
 
       - name: ✅ Ejecutar pruebas automatizadas
         run: dotnet test eShopOnWeb.tests/eShopOnWeb.tests.csproj --configuration Release --no-build --verbosity normal
 
       - name: 🚀 Publicar la aplicación web
-        run: dotnet publish src/Web/Web.csproj -c Release -o ./publicado
+        run: dotnet publish ShopWeb/eShopOnWeb/src/Web/Web.csproj -c Release -o ./publicado
 
       - name: 📂 Subir artefacto publicado
         uses: actions/upload-artifact@v4
