@@ -18,7 +18,6 @@
   <ItemGroup>
     <ProjectReference Include="..\eShopOnWeb\src\ApplicationCore\ApplicationCore.csproj" />
     <ProjectReference Include="..\eShopOnWeb\src\Infrastructure\Infrastructure.csproj" />
-    <ProjectReference Include="..\eShopOnWeb\tests\FunctionalTests\FunctionalTests.csproj" />
   </ItemGroup>
 
   <ItemGroup>
