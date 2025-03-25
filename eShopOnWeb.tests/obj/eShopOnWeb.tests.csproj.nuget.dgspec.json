@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos\\eShopOnWeb.tests\\eShopOnWeb.tests.csproj": {}
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb.tests\\eShopOnWeb.tests.csproj": {}
   },
   "projects": {
-    "C:\\proyectos\\eShopOnWeb.tests\\eShopOnWeb.tests.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb.tests\\eShopOnWeb.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb.tests\\eShopOnWeb.tests.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb.tests\\eShopOnWeb.tests.csproj",
         "projectName": "eShopOnWeb.tests",
-        "projectPath": "C:\\proyectos\\eShopOnWeb.tests\\eShopOnWeb.tests.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb.tests\\eShopOnWeb.tests.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb.tests\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb.tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -132,8 +132,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj"
               }
             }
           }
@@ -265,14 +265,14 @@
         }
       }
     },
-    "C:\\proyectos\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj",
         "projectName": "BlazorAdmin",
-        "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb\\src\\BlazorAdmin\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorAdmin\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -295,11 +295,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -479,14 +479,14 @@
         }
       }
     },
-    "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj",
         "projectName": "BlazorShared",
-        "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared\\BlazorShared.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -623,14 +623,14 @@
         }
       }
     },
-    "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
         "projectName": "eShopWeb.AspireServiceDefaults",
-        "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -800,14 +800,14 @@
         }
       }
     },
-    "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -830,8 +830,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -968,14 +968,14 @@
         }
       }
     },
-    "C:\\proyectos\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj",
         "projectName": "PublicApi",
-        "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb\\src\\PublicApi\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\PublicApi\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -998,14 +998,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -1192,14 +1192,14 @@
         }
       }
     },
-    "C:\\proyectos\\eShopOnWeb\\src\\Web\\Web.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb\\src\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\Web\\Web.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb\\src\\Web\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -1222,17 +1222,17 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorAdmin\\BlazorAdmin.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults\\eShopWeb.AspireServiceDefaults.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -1444,14 +1444,14 @@
         }
       }
     },
-    "C:\\proyectos\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj": {
+    "C:\\proyectos\\ShopWeb\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj",
+        "projectUniqueName": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj",
         "projectName": "FunctionalTests",
-        "projectPath": "C:\\proyectos\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj",
+        "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\tests\\FunctionalTests\\FunctionalTests.csproj",
         "packagesPath": "C:\\Users\\juanb\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\eShopOnWeb\\tests\\FunctionalTests\\obj\\",
+        "outputPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\tests\\FunctionalTests\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -1474,14 +1474,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\PublicApi\\PublicApi.csproj"
               },
-              "C:\\proyectos\\eShopOnWeb\\src\\Web\\Web.csproj": {
-                "projectPath": "C:\\proyectos\\eShopOnWeb\\src\\Web\\Web.csproj"
+              "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Web\\Web.csproj": {
+                "projectPath": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Web\\Web.csproj"
               }
             }
           }

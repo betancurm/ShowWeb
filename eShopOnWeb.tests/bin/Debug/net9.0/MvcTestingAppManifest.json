@@ -1,10 +1,10 @@
 {
-  "ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\eShopOnWeb\\src\\ApplicationCore",
-  "BlazorAdmin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\eShopOnWeb\\src\\BlazorAdmin",
-  "BlazorShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\eShopOnWeb\\src\\BlazorShared",
-  "eShopWeb.AspireServiceDefaults, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults",
-  "FunctionalTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\eShopOnWeb\\tests\\FunctionalTests",
-  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\eShopOnWeb\\src\\Infrastructure",
-  "PublicApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\eShopOnWeb\\src\\PublicApi",
-  "Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\eShopOnWeb\\src\\Web"
+  "ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\ApplicationCore",
+  "BlazorAdmin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorAdmin",
+  "BlazorShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\BlazorShared",
+  "eShopWeb.AspireServiceDefaults, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\eShopWeb.AspireServiceDefaults",
+  "FunctionalTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\tests\\FunctionalTests",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Infrastructure",
+  "PublicApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\PublicApi",
+  "Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\proyectos\\ShopWeb\\eShopOnWeb\\src\\Web"
 }
