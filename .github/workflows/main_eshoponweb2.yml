@@ -24,13 +24,13 @@ jobs:
           dotnet-version: '9.x'
 
       - name: Restore dependencies
-        run: dotnet restore ShopWeb/eShopOnWeb/eShopOnWeb.sln
+        run: dotnet restore eShopOnWeb/eShopOnWeb.sln
 
       - name: Build solution
-        run: dotnet build ShopWeb/eShopOnWeb/eShopOnWeb.sln --configuration Release --no-restore
+        run: dotnet build eShopOnWeb/eShopOnWeb.sln --configuration Release --no-restore
 
       - name: Publish web project
-        run: dotnet publish ShopWeb/eShopOnWeb/src/Web/Web.csproj -c Release -o "${{env.DOTNET_ROOT}}/myapp"
+        run: dotnet publish eShopOnWeb/src/Web/Web.csproj -c Release -o "${{env.DOTNET_ROOT}}/myapp"
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
